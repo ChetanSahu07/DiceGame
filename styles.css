@@ -1,0 +1,53 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #F8F1F1;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Darumadrop One', cursive;
+  text-shadow: 0 3px 3px  black;
+  font-size: 8rem;
+  color: #025464;
+}
+
+p {
+  font-size: 2rem;
+  color:  #E57C23;
+  font-family: 'Darumadrop One', cursive;
+  font-weight: bolder;
+}
+
+img {
+  width: 80%;
+  box-shadow: 0 10px 10px black ;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+.btn1{
+  text-align: center;
+  margin:50px ;
+}
+.btn{
+  color:white;
+  font-size: 25px;
+  background-color: #E8AA42;
+  border:2px solid black ;
+}
